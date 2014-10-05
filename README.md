@@ -1,5 +1,7 @@
 # Swagger::Docs
 
+ME
+
 Generates swagger-ui json files for rails apps with APIs. You add the swagger DSL to your controller classes and then run one rake task to generate the json files.
 
 [![Gem Version](https://badge.fury.io/rb/swagger-docs.png)][gem]
